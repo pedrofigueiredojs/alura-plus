@@ -1,5 +1,6 @@
 # Alura Plus
-## Lista de Links para teste
 
-* https://pedrofigueiredojs.github.io/alura-plus/
-* https://alura-plus-two-theta.vercel.app/
+## Links para testes
+
+* [Vercel](https://alura-plus-two-theta.vercel.app/)
+* [Github Pages](https://pedrofigueiredojs.github.io/alura-plus/)
